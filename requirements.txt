@@ -1,0 +1,8 @@
+# Core Web Scraping
+scrapy 
+python-dotenv 
+dotmap 
+
+# Data Processing
+pandas 
+openpyxl 
